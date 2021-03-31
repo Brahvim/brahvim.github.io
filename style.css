@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h1 {
+    color: aqua;
+    text-align: center;
+}
+
+p {
+    color: rgb(250, 250, 150);
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: aliceblue;
+}
+
+th {
+    text-align: left;
+}
