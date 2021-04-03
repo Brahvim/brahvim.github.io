@@ -1,0 +1,12 @@
+html, body {
+    background-color: black;
+}
+
+td {
+    color: antiquewhite;
+    text-align: center;
+}
+
+th {
+    text-align: left;
+}
